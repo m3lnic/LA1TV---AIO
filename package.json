@@ -1,0 +1,26 @@
+{
+  "name": "la1tv-aio",
+  "version": "1.0.0",
+  "description": "LA1TV - AIO",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3lnic/LA1TV---AIO.git"
+  },
+  "author": "Melody Nicholls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m3lnic/LA1TV---AIO/issues"
+  },
+  "homepage": "https://github.com/m3lnic/LA1TV---AIO#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "obs-websocket-js": "^2.0.1",
+    "react": "^16.8.5",
+    "stream-deck-api": "0.0.5",
+    "stream-deck-ts": "^1.0.0"
+  }
+}

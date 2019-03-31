@@ -1,0 +1,13 @@
+Install any required addons:
+    - obs-websocket-js
+    - elgato-stream-deck
+        - Causes errors
+        - Looking at Elgato-Stream-Deck-TS
+
+Create basic HyperDeck functionality
+    - TCP commands
+    - Specify IP address?
+    - Port
+
+Create web-interface for all these
+    - React?
